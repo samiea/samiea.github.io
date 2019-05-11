@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: samiea.github.io
-Token: d50fd7a9c7da1213413026c141cde84261419ae3b87858221f9653dfecfd3d7a
+Token: f3294bd1d70eae963643e36a79ab90ce171577826676f5dcec88159edfb6a194
